@@ -16,7 +16,7 @@ app.get('/about', function(req, res) {
     
 });
 app.get('/contact', function(req, res) {
-    res.send('<h1>Contact me throught mail @ aswinash1002@gmail.com</h1>');
+    res.send('<h1>Contact me through mail @ aswinash1002@gmail.com</h1>');
     
     
 });
