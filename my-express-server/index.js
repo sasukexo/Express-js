@@ -6,7 +6,7 @@ const port=3000;
 const app = express();
 
 app.get('/', function(req, res) {
-    response.send('<h1>Hello, world!</h1>');
+    res.send('<h1>Hello!</h1>');
     
     
 });
