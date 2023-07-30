@@ -1,0 +1,16 @@
+
+*.json
+
+mid/node_modules/express/lib/
+
+*.md
+
+mid/node_modules/ipaddr.js/LICENSE
+
+*.yml
+
+*.js
+
+mid/node_modules/.bin/mime
+
+*.cmd
