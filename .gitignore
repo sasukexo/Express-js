@@ -14,3 +14,13 @@ mid/node_modules/ipaddr.js/LICENSE
 mid/node_modules/.bin/mime
 
 *.cmd
+
+secret/node_modules/array-flatten/
+
+secret/node_modules/accepts/LICENSE
+
+secret/node_modules/call-bind/.eslintignore
+
+secret/node_modules/call-bind/
+
+secret/node_modules/content-type/
